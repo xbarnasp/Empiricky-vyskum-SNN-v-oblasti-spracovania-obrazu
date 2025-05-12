@@ -1,1 +1,1 @@
-# Empirick-v-skum-potenci-lu-samonormaliza-n-ch-neur-nov-ch-siet-v-oblasti-spracovania-obrazu
+# Empirický výskum potenciálu samonormalizačných neurónových sietí v oblasti spracovania obrazu
