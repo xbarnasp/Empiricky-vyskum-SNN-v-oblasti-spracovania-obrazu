@@ -1,0 +1,1 @@
+# Empirick-v-skum-potenci-lu-samonormaliza-n-ch-neur-nov-ch-siet-v-oblasti-spracovania-obrazu
