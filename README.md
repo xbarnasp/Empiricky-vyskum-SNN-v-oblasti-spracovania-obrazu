@@ -4,10 +4,14 @@ Tento repozitár slúži na replikovanie experimentov z diplomovej práce zamera
 
 Pre spustenie jednotlivých testov je potrebné stiahnuť a upraviť dataset z linkov (alebo využiť knižnicu Torch):
 
-CIFAR-10 a CIFAR-100: https://www.cs.toronto.edu/~kriz/cifar.html  \\
-MNIST: https://www.kaggle.com/datasets/hojjatk/mnist-dataset \\
+CIFAR-10 a CIFAR-100: https://www.cs.toronto.edu/~kriz/cifar.html 
+
+MNIST: https://www.kaggle.com/datasets/hojjatk/mnist-dataset 
+
 Mini-ImageNet: https://www.kaggle.com/datasets/arjunashok33/miniimagenet
+
 Food 101: https://www.kaggle.com/datasets/dansbecker/food-101
+
 Flowers 102: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/
 
 Potom treba jednotlivé datasety upraviť na základe názvu súboru z kódu a usporiadať podľa DP.
